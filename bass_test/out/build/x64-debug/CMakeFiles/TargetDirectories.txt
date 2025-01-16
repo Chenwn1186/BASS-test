@@ -1,0 +1,3 @@
+D:/FlutterProjects/VS/bass_test/out/build/x64-debug/CMakeFiles/bass_test.dir
+D:/FlutterProjects/VS/bass_test/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/FlutterProjects/VS/bass_test/out/build/x64-debug/CMakeFiles/rebuild_cache.dir

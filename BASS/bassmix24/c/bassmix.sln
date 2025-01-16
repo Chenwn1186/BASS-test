@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "multi", "multi\multi.vcxproj", "{588C7C8C-8E2E-4220-9E6A-33E4E253D358}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "speakers", "speakers\speakers.vcxproj", "{D852EA89-5498-4421-8519-9FDDD3F20D1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{588C7C8C-8E2E-4220-9E6A-33E4E253D358}.Release|Win32.ActiveCfg = Release|Win32
+		{588C7C8C-8E2E-4220-9E6A-33E4E253D358}.Release|Win32.Build.0 = Release|Win32
+		{588C7C8C-8E2E-4220-9E6A-33E4E253D358}.Release|x64.ActiveCfg = Release|x64
+		{588C7C8C-8E2E-4220-9E6A-33E4E253D358}.Release|x64.Build.0 = Release|x64
+		{D852EA89-5498-4421-8519-9FDDD3F20D1F}.Release|Win32.ActiveCfg = Release|Win32
+		{D852EA89-5498-4421-8519-9FDDD3F20D1F}.Release|Win32.Build.0 = Release|Win32
+		{D852EA89-5498-4421-8519-9FDDD3F20D1F}.Release|x64.ActiveCfg = Release|x64
+		{D852EA89-5498-4421-8519-9FDDD3F20D1F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

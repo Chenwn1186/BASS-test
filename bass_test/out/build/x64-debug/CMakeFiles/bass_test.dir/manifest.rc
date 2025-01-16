@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/FlutterProjects/VS/bass_test/out/build/x64-debug/CMakeFiles/bass_test.dir/embed.manifest"
